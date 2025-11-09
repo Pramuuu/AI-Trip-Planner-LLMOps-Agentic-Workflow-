@@ -79,4 +79,3 @@
 
    **
 
-Made with ❤️ by the AI Trip Planner Team
